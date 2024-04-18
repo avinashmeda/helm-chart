@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-18T15:48:33.585730731+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 604e70e81cc83a336f1516244b366cf1488eaca2f5cb442e510d745367996e17
+    name: app
+    type: application
+    urls:
+    - http://avinashmeda.github.io/helm-charts/app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-18T15:48:33.585038456+05:30"
