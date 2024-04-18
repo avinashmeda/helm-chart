@@ -9,6 +9,6 @@ entries:
     name: app
     type: application
     urls:
-    - http://avinashmeda.github.io/helm-charts/app-0.1.0.tgz
+    - http://avinashmeda.github.io/helm-chart/app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-18T15:48:33.585038456+05:30"
